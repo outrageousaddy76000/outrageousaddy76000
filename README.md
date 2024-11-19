@@ -115,20 +115,20 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=outrageousaddy76000&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=outrageousaddy76000&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=outrageousaddy76000&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1&custom_title=Full%20Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=outrageousaddy76000&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=outrageousaddy76000&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1&custom_title=Full%20Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=outrageousaddy76000&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=outrageousaddy76000&radius=16&theme=react&area=true&order=5&custom_title=My%20Activity" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=outrageousaddy76000&radius=16&theme=github-light&area=true&order=5&custom_title=My%20Activity" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
